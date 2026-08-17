@@ -1,0 +1,17 @@
+# React
+url-shortener-frontend/node_modules/
+url-shortener-frontend/dist/
+url-shortener-frontend/.env
+
+# Spring Boot
+url-shortener-sb/target/
+url-shortener-sb/.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
